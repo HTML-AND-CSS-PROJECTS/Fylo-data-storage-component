@@ -29,7 +29,7 @@ Users should be able to:
 ### Screenshot
 
 ![](https://github.com/soalemusharafa/Fylo-data-storage-component/blob/main/Screenshots/desktopp-view.png)
-![](https://github.com/soalemusharafa/Fylo-data-storage-component/blob/main/Screenshots/desktopp-view.png)
+![](https://github.com/soalemusharafa/Fylo-data-storage-component/blob/main/Screenshots/mobile-view.png)
 
 
 
