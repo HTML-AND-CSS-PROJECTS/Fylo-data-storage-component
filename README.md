@@ -28,7 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/soalemusharafa/Fylo-data-storage-component/blob/main/Screenshots/desktopp-view.png)
+![](https://github.com/soalemusharafa/Fylo-data-storage-component/blob/main/Screenshots/desktopp-view.png)
+
 
 
 ### Links
