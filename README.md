@@ -28,15 +28,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/soalemusharafa/Fylo-data-storage-component/blob/main/Screenshots/desktopp-view.png)
-![](https://github.com/soalemusharafa/Fylo-data-storage-component/blob/main/Screenshots/mobile-view.png)
+![](https://github.com/HTML-AND-CSS-PROJECTS/Fylo-data-storage-component/blob/main/Screenshots/desktopp-view.png)
+![](https://github.com/HTML-AND-CSS-PROJECTS/Fylo-data-storage-component/blob/main/Screenshots/mobile-view.png)
 
 
 
 ### Links
 
-- Solution URL:(https://github.com/soalemusharafa/Fylo-data-storage-component)
-- Live Site URL:( https://soalemusharafa.github.io/Fylo-data-storage-component)
+- Solution URL:(https://github.com/HTML-AND-CSS-PROJECTS/Fylo-data-storage-component)
+- Live Site URL:(https://html-and-css-projects.github.io/Fylo-data-storage-component/)
 
 ## My process
 
@@ -47,7 +47,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
--
+
 
 ### What I learned
 
